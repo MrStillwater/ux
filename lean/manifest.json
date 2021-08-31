@@ -1,0 +1,41 @@
+{
+  "manifest_version" : 3,
+  "version": "1.0",
+  "name": "ux theme",
+  "theme": {
+    "images" : {
+      "theme_ntp_background" : "images/background.png"
+    },
+    "colors" : {
+      "frame" : [49, 51, 51],
+      "frame_inactive" : [49, 51, 51],
+      "frame_incognito" : [35, 37, 37],
+      "frame_incognito_inactive" : [35, 37, 37],
+      "background_tab" : [49, 51, 51],
+      "background_tab_incognito" : [0, 0, 0],
+      "background_tab_incognito_inactive" : [0, 0, 0],
+      "bookmark_text" : [204, 204, 204],
+      "button_background" : [49, 51, 51],
+      "tab_background_text" : [204, 204, 204],
+      "tab_background_text_inactive" : [135, 135, 129],
+      "tab_background_text_incognito" : [204, 204, 204],
+      "tab_background_text_incognito_inactive" : [135, 135, 129],
+      "tab_text" : [15, 160, 240],
+      "toolbar" : [49, 51, 51],
+      "toolbar_button_icon" : [31, 192, 22],
+      "omnibox_text" : [204, 204, 204],
+      "omnibox_background" : [35, 37, 37],
+      "ntp_background" : [35, 37, 37],
+      "ntp_header" : [80, 66, 49],
+      "ntp_link" : [0, 128, 255],
+      "ntp_text" : [204, 204, 204]
+    },
+    "tints" : {
+    },
+    "properties" : {
+      "ntp_background_alignment" : "center",
+      "ntp_background_repeat" : "no_repeat",
+      "ntp_logo_alternate" : "images/logo_alternate.png"
+    }
+  }
+}
